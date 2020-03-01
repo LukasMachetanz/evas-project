@@ -1,3 +1,27 @@
 h1, h2 {
   font-family: Lato;
 }
+
+
+body {
+    background-color: lightblue;
+
+  }
+.gif {
+    width: 40px;
+}
+
+head {
+    font-family: 'Courier Prime', monospace;
+    padding: 0;
+    margin: 0;
+
+    float: left;
+}
+}
+main {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
